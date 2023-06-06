@@ -13,3 +13,4 @@ ChatGPT: [The way ChatGPT would respond]
 
 - https://app.gumroad.com/d/fbc122b67f5bba34667b44aa057fae21
 - https://prompts.chat/
+- https://www.scrum.org/resources/blog/60-chatgpt-prompts-scrum-masters-and-product-owners
